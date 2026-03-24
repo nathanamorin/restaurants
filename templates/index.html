@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Indianapolis Team Building Restaurants</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>🍽️ Indy Team Building Restaurants</h1>
+      <p class="subtitle">Indianapolis restaurant recommendations for team events</p>
+    </div>
+  </header>
+
+  <main>
+    <!-- Claude AI Search -->
+    <section class="card search-section">
+      <h2>🤖 Ask Claude for Recommendations</h2>
+      <p class="section-desc">Use Claude AI to search for Indianapolis restaurants perfect for team building.</p>
+      <div class="search-form">
+        <input
+          type="text"
+          id="searchQuery"
+          placeholder='e.g. "great Italian spots for a group of 20" or "casual outdoor dining downtown"'
+        />
+        <button id="searchBtn" onclick="searchRestaurants()">Search</button>
+      </div>
+      <div id="searchResult" class="search-result hidden"></div>
+    </section>
+
+    <!-- Add Restaurant -->
+    <section class="card add-section">
+      <h2>➕ Add a Restaurant</h2>
+      <p class="section-desc">Found a great spot? Add it to the team list.</p>
+      <form id="addForm" onsubmit="addRestaurant(event)">
+        <div class="form-grid">
+          <div class="form-group">
+            <label for="name">Restaurant Name *</label>
+            <input type="text" id="name" placeholder="e.g. St. Elmo Steak House" required />
+          </div>
+          <div class="form-group">
+            <label for="cuisine">Cuisine *</label>
+            <input type="text" id="cuisine" placeholder="e.g. Steakhouse, Italian, Mexican" required />
+          </div>
+          <div class="form-group">
+            <label for="address">Address *</label>
+            <input type="text" id="address" placeholder="e.g. 127 S Illinois St, Indianapolis, IN" required />
+          </div>
+          <div class="form-group">
+            <label for="price_range">Price Range</label>
+            <select id="price_range">
+              <option value="$">$ (Under $15)</option>
+              <option value="$$" selected>$$ ($15–$30)</option>
+              <option value="$$$">$$$ ($30–$50)</option>
+              <option value="$$$$">$$$$ ($50+)</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="rating">Rating (1–5)</label>
+            <input type="number" id="rating" min="1" max="5" step="0.1" placeholder="e.g. 4.5" />
+          </div>
+          <div class="form-group">
+            <label for="added_by">Added By</label>
+            <input type="text" id="added_by" placeholder="Your name" />
+          </div>
+          <div class="form-group full-width">
+            <label for="notes">Notes</label>
+            <textarea id="notes" rows="2" placeholder="Why is this place great for team building?"></textarea>
+          </div>
+        </div>
+        <button type="submit" class="btn-primary">Add Restaurant</button>
+      </form>
+      <div id="addMessage" class="message hidden"></div>
+    </section>
+
+    <!-- Restaurant List -->
+    <section class="card list-section">
+      <div class="list-header">
+        <h2>📋 Restaurant List <span id="restaurantCount" class="count-badge">{{ restaurants|length }}</span></h2>
+        <input type="text" id="filterInput" placeholder="Filter by name, cuisine…" oninput="filterRestaurants()" />
+      </div>
+      <div id="restaurantList">
+        {% if restaurants %}
+          {% for r in restaurants %}
+          <div class="restaurant-card" data-id="{{ r.id }}" data-name="{{ r.name|lower }}" data-cuisine="{{ r.cuisine|lower }}">
+            <div class="restaurant-info">
+              <div class="restaurant-header">
+                <h3>{{ r.name }}</h3>
+                <span class="price-badge">{{ r.price_range }}</span>
+              </div>
+              <div class="restaurant-meta">
+                <span class="cuisine-tag">{{ r.cuisine }}</span>
+                {% if r.rating %}
+                <span class="rating">⭐ {{ r.rating }}</span>
+                {% endif %}
+              </div>
+              <p class="address">📍 {{ r.address }}</p>
+              {% if r.notes %}
+              <p class="notes">{{ r.notes }}</p>
+              {% endif %}
+              <span class="added-by">Added by {{ r.added_by }}</span>
+            </div>
+            <button class="delete-btn" onclick="deleteRestaurant({{ r.id }}, this)" title="Remove from list">✕</button>
+          </div>
+          {% endfor %}
+        {% else %}
+          <p class="empty-state">No restaurants yet. Add one above or ask Claude for suggestions!</p>
+        {% endif %}
+      </div>
+    </section>
+  </main>
+
+  <script>
+    async function searchRestaurants() {
+      const query = document.getElementById('searchQuery').value.trim();
+      if (!query) return;
+
+      const btn = document.getElementById('searchBtn');
+      const resultDiv = document.getElementById('searchResult');
+
+      btn.disabled = true;
+      btn.textContent = 'Searching…';
+      resultDiv.className = 'search-result loading';
+      resultDiv.textContent = 'Claude is searching for Indianapolis restaurants…';
+      resultDiv.classList.remove('hidden');
+
+      try {
+        const response = await fetch('/api/search', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ query })
+        });
+        const data = await response.json();
+        if (response.ok) {
+          resultDiv.className = 'search-result success';
+          resultDiv.innerHTML = '<strong>Claude\'s Recommendations:</strong><br><br>' + formatText(data.result);
+        } else {
+          resultDiv.className = 'search-result error';
+          resultDiv.textContent = 'Error: ' + data.error;
+        }
+      } catch (err) {
+        resultDiv.className = 'search-result error';
+        resultDiv.textContent = 'Network error. Please try again.';
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Search';
+      }
+    }
+
+    function formatText(text) {
+      return text
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        .replace(/\n\n/g, '</p><p>')
+        .replace(/\n/g, '<br>');
+    }
+
+    async function addRestaurant(event) {
+      event.preventDefault();
+      const msgDiv = document.getElementById('addMessage');
+
+      const payload = {
+        name: document.getElementById('name').value,
+        cuisine: document.getElementById('cuisine').value,
+        address: document.getElementById('address').value,
+        price_range: document.getElementById('price_range').value,
+        rating: document.getElementById('rating').value || null,
+        notes: document.getElementById('notes').value,
+        added_by: document.getElementById('added_by').value || 'team'
+      };
+
+      try {
+        const response = await fetch('/api/restaurants', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+        const data = await response.json();
+        if (response.ok) {
+          msgDiv.className = 'message success';
+          msgDiv.textContent = `✅ "${data.name}" has been added to the list!`;
+          document.getElementById('addForm').reset();
+          appendRestaurantCard(data);
+          updateCount(1);
+        } else {
+          msgDiv.className = 'message error';
+          msgDiv.textContent = 'Error: ' + data.error;
+        }
+      } catch (err) {
+        msgDiv.className = 'message error';
+        msgDiv.textContent = 'Network error. Please try again.';
+      }
+    }
+
+    function appendRestaurantCard(r) {
+      const list = document.getElementById('restaurantList');
+      const empty = list.querySelector('.empty-state');
+      if (empty) empty.remove();
+
+      const card = document.createElement('div');
+      card.className = 'restaurant-card';
+      card.dataset.id = r.id;
+      card.dataset.name = r.name.toLowerCase();
+      card.dataset.cuisine = r.cuisine.toLowerCase();
+      card.innerHTML = `
+        <div class="restaurant-info">
+          <div class="restaurant-header">
+            <h3>${escHtml(r.name)}</h3>
+            <span class="price-badge">${escHtml(r.price_range)}</span>
+          </div>
+          <div class="restaurant-meta">
+            <span class="cuisine-tag">${escHtml(r.cuisine)}</span>
+            ${r.rating ? `<span class="rating">⭐ ${r.rating}</span>` : ''}
+          </div>
+          <p class="address">📍 ${escHtml(r.address)}</p>
+          ${r.notes ? `<p class="notes">${escHtml(r.notes)}</p>` : ''}
+          <span class="added-by">Added by ${escHtml(r.added_by)}</span>
+        </div>
+        <button class="delete-btn" onclick="deleteRestaurant(${r.id}, this)" title="Remove from list">✕</button>
+      `;
+      list.prepend(card);
+    }
+
+    function escHtml(str) {
+      const d = document.createElement('div');
+      d.appendChild(document.createTextNode(str || ''));
+      return d.innerHTML;
+    }
+
+    async function deleteRestaurant(id, btn) {
+      if (!confirm('Remove this restaurant from the list?')) return;
+      try {
+        const response = await fetch(`/api/restaurants/${id}`, { method: 'DELETE' });
+        if (response.ok) {
+          const card = btn.closest('.restaurant-card');
+          card.remove();
+          updateCount(-1);
+          if (!document.querySelector('.restaurant-card')) {
+            document.getElementById('restaurantList').innerHTML =
+              '<p class="empty-state">No restaurants yet. Add one above or ask Claude for suggestions!</p>';
+          }
+        }
+      } catch (err) {
+        alert('Network error. Please try again.');
+      }
+    }
+
+    function updateCount(delta) {
+      const badge = document.getElementById('restaurantCount');
+      badge.textContent = parseInt(badge.textContent) + delta;
+    }
+
+    function filterRestaurants() {
+      const q = document.getElementById('filterInput').value.toLowerCase();
+      document.querySelectorAll('.restaurant-card').forEach(card => {
+        const matches = card.dataset.name.includes(q) || card.dataset.cuisine.includes(q);
+        card.style.display = matches ? '' : 'none';
+      });
+    }
+
+    document.getElementById('searchQuery').addEventListener('keydown', e => {
+      if (e.key === 'Enter') searchRestaurants();
+    });
+  </script>
+</body>
+</html>

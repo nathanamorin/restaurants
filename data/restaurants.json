@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "St. Elmo Steak House",
+    "cuisine": "Steakhouse",
+    "address": "127 S Illinois St, Indianapolis, IN 46225",
+    "price_range": "$$$$",
+    "rating": 4.7,
+    "notes": "Iconic Indianapolis steakhouse, famous for shrimp cocktail",
+    "added_by": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Milktooth",
+    "cuisine": "Brunch / American",
+    "address": "534 Virginia Ave, Indianapolis, IN 46203",
+    "price_range": "$$$",
+    "rating": 4.6,
+    "notes": "Award-winning brunch spot in Fletcher Place",
+    "added_by": "admin"
+  },
+  {
+    "id": 3,
+    "name": "Bluebeard",
+    "cuisine": "American / New American",
+    "address": "653 Virginia Ave, Indianapolis, IN 46203",
+    "price_range": "$$$",
+    "rating": 4.5,
+    "notes": "Locally sourced ingredients, great for groups",
+    "added_by": "admin"
+  },
+  {
+    "id": 4,
+    "name": "Tinker Street",
+    "cuisine": "American / Farm-to-Table",
+    "address": "402 E 16th St, Indianapolis, IN 46202",
+    "price_range": "$$$",
+    "rating": 4.4,
+    "notes": "Rotating seasonal menu, cozy atmosphere",
+    "added_by": "admin"
+  },
+  {
+    "id": 5,
+    "name": "Café Patachou",
+    "cuisine": "Breakfast / American",
+    "address": "225 W Washington St, Indianapolis, IN 46204",
+    "price_range": "$$",
+    "rating": 4.5,
+    "notes": "Indianapolis breakfast institution, multiple locations",
+    "added_by": "admin"
+  },
+  {
+    "id": 6,
+    "name": "Beholder",
+    "cuisine": "American / Fine Dining",
+    "address": "1844 N Alabama St, Indianapolis, IN 46202",
+    "price_range": "$$$$",
+    "rating": 4.6,
+    "notes": "Chef-driven menu, excellent for special occasions",
+    "added_by": "admin"
+  },
+  {
+    "id": 7,
+    "name": "Moe & Johnny's",
+    "cuisine": "Bar & Grill / Burgers",
+    "address": "1147 E 54th St, Indianapolis, IN 46220",
+    "price_range": "$$",
+    "rating": 4.3,
+    "notes": "Classic Indianapolis neighborhood bar with great burgers",
+    "added_by": "admin"
+  },
+  {
+    "id": 8,
+    "name": "Goose the Market",
+    "cuisine": "Deli / Italian",
+    "address": "2503 N Delaware St, Indianapolis, IN 46205",
+    "price_range": "$$",
+    "rating": 4.7,
+    "notes": "Artisan butcher shop and deli, amazing sandwiches",
+    "added_by": "admin"
+  }
+]
