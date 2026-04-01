@@ -12,70 +12,93 @@
 - [Fishers](#fishers)
 - [Northwest Side](#northwest-side)
 - [Westfield](#westfield)
+- [Carmel](#carmel)
 - [Activities](#activities)
 
 ---
 
 ## Broad Ripple
 
-- **[Fernando's Mexican & Brazilian Cuisine](https://maps.app.goo.gl/4uPAVfrLye5Vpnc5A)** — 834 E 64th St, Indianapolis, IN 46220
+- [x] **[Fernando's Mexican & Brazilian Cuisine](https://maps.app.goo.gl/4uPAVfrLye5Vpnc5A)** — 834 E 64th St, Indianapolis, IN 46220
   Great place for team lunch and chat. Delicious Mexican/Brazilian dishes.
 
-- **[BRICS](https://maps.app.goo.gl/Y31yVxPmkkHfh6vDA)** — 901 E 64th St, Indianapolis, IN 46220
+- [x] **[BRICS](https://maps.app.goo.gl/Y31yVxPmkkHfh6vDA)** — 901 E 64th St, Indianapolis, IN 46220
   Housed in an old railway station — great atmosphere for team chat and photos.
+
+- [ ] **[Canal Bistro Mediterranean Grille](https://www.google.com/maps/search/Canal+Bistro+6349+Guilford+Ave+Indianapolis+IN)** — 6349 Guilford Ave, Indianapolis, IN 46220
+  Right on the Broad Ripple canal towpath with a beautiful outdoor patio. Lebanese/Egyptian-owned with shareable mezze platters, shawarma, gyros, and hummus. 4.6 stars on OpenTable. 
 
 ---
 
 ## Indy Downtown
 
-- **[Bosphorus Istanbul Café](https://maps.app.goo.gl/1Xm9QE6jJtLkzWng8)** — 935 S East St, Indianapolis, IN 46225
+- [x] **[Bosphorus Istanbul Café](https://maps.app.goo.gl/1Xm9QE6jJtLkzWng8)** — 935 S East St, Indianapolis, IN 46225
   Walking distance from Lilly. A great spot for a quick team lunch.
 
-- **[Iozzo's Garden of Italy](https://maps.app.goo.gl/jTvcC1qhPYUduHLg7)** — 946 S Meridian St, Indianapolis, IN 46225
+- [x] **[Iozzo's Garden of Italy](https://maps.app.goo.gl/jTvcC1qhPYUduHLg7)** — 946 S Meridian St, Indianapolis, IN 46225
   Walking distance from Lilly. The Italian food was great!
+
+- [ ] **[BODHI - Craft Bar + Thai Bistro](https://www.google.com/maps/search/BODHI+922+Massachusetts+Ave+Indianapolis+IN)** — 922 Massachusetts Ave, Indianapolis, IN 46202
+  Named one of Indianapolis Monthly's Best Restaurants of 2024. Bold authentic Thai — khao soi, spiced curries, papaya salad — with a vibrant Mass Ave atmosphere. Note: 21+ establishment. 
+
+- [ ] **[Axum Ethiopian Restaurant](https://www.google.com/maps/search/Axum+Ethiopian+Restaurant+825+N+Pennsylvania+St+Indianapolis+IN)** — 825 N Pennsylvania St, Indianapolis, IN 46204
+  Top-rated Ethiopian in Indy (4.5+ stars, 200+ reviews). Shared mesob platters with injera bread make it perfect for groups — great vegan options too. 
 
 ---
 
 ## Castleton
 
-- **[Umi Sushi & Seafood Buffet](https://maps.app.goo.gl/RHAEHPJUnCbuYGBf8)** — 6304 E 82nd St, Indianapolis, IN 46250
+- [ ] **[Umi Sushi & Seafood Buffet](https://maps.app.goo.gl/RHAEHPJUnCbuYGBf8)** — 6304 E 82nd St, Indianapolis, IN 46250
   Casual dining environment with a wide variety of sushi and East Asian style dishes.
 
-- **[Asaka Japanese Restaurant](https://maps.app.goo.gl/suzd1cYoSRujpv4AA)** — 6414 E 82nd St, Indianapolis, IN 46250
+- [ ] **[Asaka Japanese Restaurant](https://maps.app.goo.gl/suzd1cYoSRujpv4AA)** — 6414 E 82nd St, Indianapolis, IN 46250
   Casual atmosphere with authentic Japanese food — great for team lunch.
 
-- **[Masa Sake Grill](https://maps.app.goo.gl/J3Z7MxFJhXJAeMSu5)** — 5946 E 86th St, Indianapolis, IN 46250
+- [x] **[Masa Sake Grill](https://maps.app.goo.gl/J3Z7MxFJhXJAeMSu5)** — 5946 E 86th St, Indianapolis, IN 46250
   Hibachi seating with tableside performance — fun and interactive for team building.
 
 ---
 
 ## Fishers
 
-- **[Yak & Yeti Himalayan Cuisine](https://maps.app.goo.gl/A6QdELZuQu8zYaW56)** — 11561 Geist Pavilion Dr #103, Fishers, IN 46037 *(near Geist Reservoir)*
+- [x] **[Yak & Yeti Himalayan Cuisine](https://maps.app.goo.gl/A6QdELZuQu8zYaW56)** — 11561 Geist Pavilion Dr #103, Fishers, IN 46037 *(near Geist Reservoir)*
   Great dining environment and service. Known for Nepali/Indian style momo dumplings and curry.
+
+- [ ] **[Chao Vietnamese Street Food](https://www.google.com/maps/search/Chao+Vietnamese+Street+Food+7854+E+96th+St+Fishers+IN)** — 7854 E 96th St, Fishers, IN 46037
+  Top-rated Vietnamese in the northern suburbs. Fresh pho, banh mi, bun bowls, pork belly bao — all made with locally sourced Indiana ingredients. 680+ photos on Yelp. 
+
+- [ ] **[Kura Revolving Sushi Bar](https://www.google.com/maps/search/Kura+Revolving+Sushi+Bar+11594+Whistle+Dr+Fishers+IN)** — 11594 Whistle Dr Suite 120, Fishers, IN 46037
+  Indiana's first conveyor belt sushi spot (opened late 2024). Every plate is $3.75 — easy for groups to order freely. Sushi, ramen, noodles, and desserts on the belt. Fun and social for team outings. 
 
 ---
 
 ## Northwest Side
 
-- **[KTown Korean BBQ](https://g.co/kgs/iq3hhu5)** — 9350 Michigan Road, Indianapolis, IN 46268
+- [x] **[KTown Korean BBQ](https://g.co/kgs/iq3hhu5)** — 9350 Michigan Road, Indianapolis, IN 46268
   Team members cook together at the table — excellent for team building.
 
 ---
 
 ## Westfield
 
-- **[Big Hoffa's Smokehouse](https://maps.app.goo.gl/Wz42k6J3VAbCa76f9)** — 800 E Main St, Westfield, IN 46074
+- [x] **[Big Hoffa's Smokehouse](https://maps.app.goo.gl/Wz42k6J3VAbCa76f9)** — 800 E Main St, Westfield, IN 46074
   Casual atmosphere with great BBQ — a solid team lunch spot.
+
+---
+
+## Carmel
+
+- [ ] **[Sichuan Chinese Restaurant](https://www.google.com/maps/search/Sichuan+Chinese+Restaurant+1329+S+Rangeline+Rd+Carmel+IN)** — 1329 S Rangeline Rd, Carmel, IN 46032
+  Authentic bold Sichuan flavors in the northern suburbs. Praised for affordable lunch specials and friendly service — easy group ordering. 
 
 ---
 
 ## Activities
 
-- **[Birdies Miniature Golf Course & Sports Bar](https://maps.app.goo.gl/UHUt1kQ5FDTdf2KM7)** — 632 IN-32, Westfield, IN 46074
+- [ ] **[Birdies Miniature Golf Course & Sports Bar](https://maps.app.goo.gl/UHUt1kQ5FDTdf2KM7)** — 632 IN-32, Westfield, IN 46074
   Great place for team lunch, chat, and a round of mini golf.
 
-- **[Pinheads](https://g.co/kgs/GjA5htJ)** *(Bowling / Arcade / Food)* — 13825 Britton Park Rd, Fishers, IN 46038
+- [ ] **[Pinheads](https://g.co/kgs/GjA5htJ)** *(Bowling / Arcade / Food)* — 13825 Britton Park Rd, Fishers, IN 46038
   Fun combination of bowling, arcade games, and food — great for team outings.
 
 ---
