@@ -57,6 +57,9 @@
 - [x] **[Masa Sake Grill](https://maps.app.goo.gl/J3Z7MxFJhXJAeMSu5)** — 5946 E 86th St, Indianapolis, IN 46250
   Hibachi seating with tableside performance — fun and interactive for team building.
 
+- [ ] **[AKA-ONI Japanese BBQ AYCE](https://www.google.com/maps/search/AKA-ONI+Japanese+BBQ+6001+E+86th+St+Indianapolis+IN+46250)** — 6001 E 86th St, Indianapolis, IN 46250
+  All-you-can-eat Japanese BBQ restaurant — great for groups to cook together at the table.
+
 ---
 
 ## Fishers
@@ -84,12 +87,18 @@
 - [x] **[Big Hoffa's Smokehouse](https://maps.app.goo.gl/Wz42k6J3VAbCa76f9)** — 800 E Main St, Westfield, IN 46074
   Casual atmosphere with great BBQ — a solid team lunch spot.
 
+- [ ] **[Korean BBQ & Chicken](https://www.google.com/maps/search/Korean+BBQ+Chicken+214+E+Main+St+Westfield+IN)** — 214 E Main St, Westfield, IN
+  Korean BBQ and grilled chicken — interactive table-cooking experience for team building.
+
 ---
 
 ## Carmel
 
 - [ ] **[Sichuan Chinese Restaurant](https://www.google.com/maps/search/Sichuan+Chinese+Restaurant+1329+S+Rangeline+Rd+Carmel+IN)** — 1329 S Rangeline Rd, Carmel, IN 46032
-  Authentic bold Sichuan flavors in the northern suburbs. Praised for affordable lunch specials and friendly service — easy group ordering. 
+  Authentic bold Sichuan flavors in the northern suburbs. Praised for affordable lunch specials and friendly service — easy group ordering.
+
+- [ ] **[Terra Gaucha Brazilian Steakhouse](https://www.google.com/maps/search/Terra+Gaucha+Brazilian+Steakhouse+8487+Union+Chapel+Rd+Indianapolis+IN)** — 8487 Union Chapel Rd, Indianapolis, IN
+  Upscale Brazilian steakhouse with churrasco service — excellent for special team dinners. 
 
 ---
 
