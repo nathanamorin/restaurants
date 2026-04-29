@@ -41,8 +41,12 @@
 - [ ] **[BODHI - Craft Bar + Thai Bistro](https://www.google.com/maps/search/BODHI+922+Massachusetts+Ave+Indianapolis+IN)** — 922 Massachusetts Ave, Indianapolis, IN 46202
   Named one of Indianapolis Monthly's Best Restaurants of 2024. Bold authentic Thai — khao soi, spiced curries, papaya salad — with a vibrant Mass Ave atmosphere. Note: 21+ establishment. 
 
-- [ ] **[Axum Ethiopian Restaurant](https://www.google.com/maps/search/Axum+Ethiopian+Restaurant+825+N+Pennsylvania+St+Indianapolis+IN)** — 825 N Pennsylvania St, Indianapolis, IN 46204
-  Top-rated Ethiopian in Indy (4.5+ stars, 200+ reviews). Shared mesob platters with injera bread make it perfect for groups — great vegan options too. 
+- [ ] **[Axum Ethiopian Restaurant](https://www.google.com/maps/search/Axum+Ethiopian+Restaurant+825+N+Pennsylvania+St+Indianapolis+IN)** — 1004 Virginia Ave, Indianapolis, IN 46203
+  Top-rated Ethiopian in Indy (4.5+ stars, 200+ reviews). Shared mesob platters with injera bread make it perfect for groups — great vegan options too.
+
+
+- [ ] **[World Famous HotBoys](https://www.google.com/maps/place/World+Famous+HotBoys+Fountain+Square/@39.754012,-86.14154,1219m/data=!3m1!1e3!4m6!3m5!1s0x886b5169cc3bbe6d:0xec956d8bcf386ea!8m2!3d39.754012!4d-86.14154!16s%2Fg%2F11q4h11s1y?authuser=0&entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D)** — 825 N Pennsylvania St, Indianapolis, IN 46204
+
 
 ---
 
