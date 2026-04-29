@@ -101,6 +101,18 @@
 - [ ] **[Pinheads](https://g.co/kgs/GjA5htJ)** *(Bowling / Arcade / Food)* — 13825 Britton Park Rd, Fishers, IN 46038
   Fun combination of bowling, arcade games, and food — great for team outings.
 
+- [ ] **[Fowling Warehouse](https://www.fowlingwarehouse.com/indianapolis)** *(Football + Bowling)* — 1125 E Brookside Ave Suite D-21, Indianapolis, IN 46202
+  A football-meets-bowling game that’s easy for mixed-skill groups; they offer group parties, event spaces, bar options, and catering.
+
+- [ ] **[Bad Axe Throwing](https://badaxethrowing.com/locations/indianapolis/)** *(Axe Throwing)* — 235 S Meridian St, Indianapolis, IN 46225
+  Good for birthdays, work outings, bachelor/bachelorette groups, or a competitive night out; the downtown venue has 20+ targets.
+
+- [ ] **[Topgolf Fishers](https://topgolf.com/us/fishers/)** *(Golf + Food + Drinks)* — 9200 E 116th St, Fishers, IN 46037
+  A low-pressure group activity with climate-controlled hitting bays, food, drinks, and event packages for birthdays, company outings, or friend groups.
+
+- [ ] **[Back 9 Golf & Entertainment](https://www.back9golf.com/)** *(Golf Entertainment)* — 1415 Drover St, Indianapolis, IN 46221
+  Social golf entertainment venue with simulator bays, food, and drinks that works well for group outings.
+
 ---
 
 *Know a great spot we missed? Share it with the group!*
