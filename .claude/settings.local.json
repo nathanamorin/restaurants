@@ -3,7 +3,9 @@
     "allow": [
       "WebSearch",
       "WebFetch(domain:www.google.com)",
-      "WebFetch(domain:www.yelp.com)"
+      "WebFetch(domain:www.yelp.com)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)"
     ]
   }
 }

@@ -7,7 +7,9 @@
 ## Table of Contents
 
 - [Broad Ripple](#broad-ripple)
-- [Indy Downtown](#indy-downtown)
+- [Irvington](#irvington)
+- [Fountain Square / Near Southside](#fountain-square--near-southside)
+- [Downtown / Mass Ave](#downtown--mass-ave)
 - [Castleton](#castleton)
 - [Fishers](#fishers)
 - [Northwest Side](#northwest-side)
@@ -28,15 +30,32 @@
 - [x] **[Canal Bistro Mediterranean Grille](https://www.google.com/maps/search/Canal+Bistro+6349+Guilford+Ave+Indianapolis+IN)** — 6349 Guilford Ave, Indianapolis, IN 46220
   Right on the Broad Ripple canal towpath with a beautiful outdoor patio. Lebanese/Egyptian-owned with shareable mezze platters, shawarma, gyros, and hummus. 4.6 stars on OpenTable. 
 
+- [ ] **[317 BBQ](https://www.google.com/maps/search/317+BBQ+6320+Guilford+Ave+Indianapolis+IN)** — 6320 Guilford Ave, Indianapolis, IN 46220
+  BBQ spot on the to-try list!
+
 ---
 
-## Indy Downtown
+## Irvington
+
+- [x] **[Strange Bird](https://www.google.com/maps/search/Strange+Bird+128+S+Audubon+Rd+Indianapolis+IN)** — 128 S Audubon Rd, Indianapolis, IN 46219
+  Japanese ramen — loved the ramen with stir-fry vegetables.
+
+---
+
+## Fountain Square / Near Southside
 
 - [x] **[Bosphorus Istanbul Café](https://maps.app.goo.gl/1Xm9QE6jJtLkzWng8)** — 935 S East St, Indianapolis, IN 46225
   Walking distance from Lilly. A great spot for a quick team lunch.
 
 - [x] **[Iozzo's Garden of Italy](https://maps.app.goo.gl/jTvcC1qhPYUduHLg7)** — 946 S Meridian St, Indianapolis, IN 46225
   Walking distance from Lilly. The Italian food was great!
+
+- [ ] **[World Famous HotBoys](https://www.google.com/maps/search/World+Famous+HotBoys+1004+Virginia+Ave+Indianapolis+IN)** — 1004 Virginia Ave, Indianapolis, IN 46203
+  Fried chicken sandwich — spicy and good.
+
+---
+
+## Downtown / Mass Ave
 
 - [ ] **[BODHI - Craft Bar + Thai Bistro](https://www.google.com/maps/search/BODHI+922+Massachusetts+Ave+Indianapolis+IN)** — 922 Massachusetts Ave, Indianapolis, IN 46202
   Named one of Indianapolis Monthly's Best Restaurants of 2024. Bold authentic Thai — khao soi, spiced curries, papaya salad — with a vibrant Mass Ave atmosphere. Note: 21+ establishment. 
@@ -105,6 +124,7 @@
   Upscale Brazilian steakhouse with churrasco service — excellent for special team dinners. 
 
 ---
+
 
 ## Activities
 
