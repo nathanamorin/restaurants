@@ -25,7 +25,7 @@
 - [x] **[BRICS](https://maps.app.goo.gl/Y31yVxPmkkHfh6vDA)** — 901 E 64th St, Indianapolis, IN 46220
   Housed in an old railway station — great atmosphere for team chat and photos.
 
-- [ ] **[Canal Bistro Mediterranean Grille](https://www.google.com/maps/search/Canal+Bistro+6349+Guilford+Ave+Indianapolis+IN)** — 6349 Guilford Ave, Indianapolis, IN 46220
+- [x] **[Canal Bistro Mediterranean Grille](https://www.google.com/maps/search/Canal+Bistro+6349+Guilford+Ave+Indianapolis+IN)** — 6349 Guilford Ave, Indianapolis, IN 46220
   Right on the Broad Ripple canal towpath with a beautiful outdoor patio. Lebanese/Egyptian-owned with shareable mezze platters, shawarma, gyros, and hummus. 4.6 stars on OpenTable. 
 
 ---
