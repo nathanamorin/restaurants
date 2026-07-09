@@ -60,7 +60,7 @@
 - [ ] **[BODHI - Craft Bar + Thai Bistro](https://www.google.com/maps/search/BODHI+922+Massachusetts+Ave+Indianapolis+IN)** — 922 Massachusetts Ave, Indianapolis, IN 46202
   Named one of Indianapolis Monthly's Best Restaurants of 2024. Bold authentic Thai — khao soi, spiced curries, papaya salad — with a vibrant Mass Ave atmosphere. Note: 21+ establishment. 
 
-- [ ] **[Axum Ethiopian Restaurant](https://www.google.com/maps/search/Axum+Ethiopian+Restaurant+825+N+Pennsylvania+St+Indianapolis+IN)** — 825 N Pennsylvania St, Indianapolis, IN 46204
+- [x] **[Axum Ethiopian Restaurant](https://www.google.com/maps/search/Axum+Ethiopian+Restaurant+825+N+Pennsylvania+St+Indianapolis+IN)** — 825 N Pennsylvania St, Indianapolis, IN 46204
   Top-rated Ethiopian in Indy (4.5+ stars, 200+ reviews). Shared mesob platters with injera bread make it perfect for groups — great vegan options too.
 
 
@@ -119,9 +119,6 @@
 ---
 
 ## Carmel
-
-- [ ] **[Sichuan Chinese Restaurant](https://www.google.com/maps/search/Sichuan+Chinese+Restaurant+1329+S+Rangeline+Rd+Carmel+IN)** — 1329 S Rangeline Rd, Carmel, IN 46032
-  Authentic bold Sichuan flavors in the northern suburbs. Praised for affordable lunch specials and friendly service — easy group ordering.
 
 - [ ] **[Terra Gaucha Brazilian Steakhouse](https://www.google.com/maps/search/Terra+Gaucha+Brazilian+Steakhouse+8487+Union+Chapel+Rd+Indianapolis+IN)** — 8487 Union Chapel Rd, Indianapolis, IN
   Upscale Brazilian steakhouse with churrasco service — excellent for special team dinners. 
