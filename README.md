@@ -57,9 +57,6 @@
 
 ## Downtown / Mass Ave
 
-- [ ] **[BODHI - Craft Bar + Thai Bistro](https://www.google.com/maps/search/BODHI+922+Massachusetts+Ave+Indianapolis+IN)** — 922 Massachusetts Ave, Indianapolis, IN 46202
-  Named one of Indianapolis Monthly's Best Restaurants of 2024. Bold authentic Thai — khao soi, spiced curries, papaya salad — with a vibrant Mass Ave atmosphere. Note: 21+ establishment. 
-
 - [x] **[Axum Ethiopian Restaurant](https://www.google.com/maps/search/Axum+Ethiopian+Restaurant+825+N+Pennsylvania+St+Indianapolis+IN)** — 825 N Pennsylvania St, Indianapolis, IN 46204
   Top-rated Ethiopian in Indy (4.5+ stars, 200+ reviews). Shared mesob platters with injera bread make it perfect for groups — great vegan options too.
 
