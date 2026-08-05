@@ -34,6 +34,9 @@
 - [x] **[317 BBQ](https://www.google.com/maps/search/317+BBQ+6320+Guilford+Ave+Indianapolis+IN)** — 6320 Guilford Ave, Indianapolis, IN 46220
   BBQ spot on the to-try list!
 
+- [ ] **[Birrieria Iturbidense](https://www.google.com/maps/search/Birrieria+Iturbidense+823+Broad+Ripple+Ave+Indianapolis+IN)** — 823 Broad Ripple Ave, Indianapolis, IN 46220
+  New in 2026 from the owners of a popular local food truck. Birria tacos and quesabirria plus fun twists like birria ramen and egg rolls.
+
 ---
 
 ## Irvington
@@ -78,6 +81,13 @@
 - [ ] **[The Eagle](https://www.google.com/maps/search/The+Eagle+310+Massachusetts+Ave+Indianapolis+IN)** — 310 Massachusetts Ave, Indianapolis, IN 46204
   Antibiotic-free, all-natural fried chicken brined and dredged in house — a Mass Ave favorite for Southern comfort food.
 
+- [ ] **[Doc Crow's Southern Smokehouse & Raw Bar](https://www.google.com/maps/search/Doc+Crow%27s+130+S+Pennsylvania+St+Indianapolis+IN)** — 130 S Pennsylvania St, Indianapolis, IN 46204
+  First Indiana location of the Louisville favorite, right across from Gainbridge Fieldhouse. Southern smokehouse fare plus a raw bar.
+
+
+- [ ] **[Aroma Indian Cuisine & Bar](https://www.google.com/maps/place/Aroma+Indian+Cuisine+%26+Bar+-+Gainbridge/data=!4m2!3m1!1s0x0:0xfef7dd907c861eae?sa=X&ved=1t:2428&ictx=111)** — 110 S Pennsylvania St, Indianapolis, IN 46204
+  Recently relocated downtown near Gainbridge Fieldhouse. Modern take on authentic Indian flavors, seats up to 90.
+
 ---
 
 ## Castleton
@@ -106,6 +116,7 @@
 
 - [ ] **[Kura Revolving Sushi Bar](https://www.google.com/maps/search/Kura+Revolving+Sushi+Bar+11594+Whistle+Dr+Fishers+IN)** — 11594 Whistle Dr Suite 120, Fishers, IN 46037
   Indiana's first conveyor belt sushi spot (opened late 2024). Every plate is $3.75 — easy for groups to order freely. Sushi, ramen, noodles, and desserts on the belt. Fun and social for team outings. 
+
 
 ---
 
