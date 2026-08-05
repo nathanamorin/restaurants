@@ -31,14 +31,14 @@
 - [x] **[Canal Bistro Mediterranean Grille](https://www.google.com/maps/search/Canal+Bistro+6349+Guilford+Ave+Indianapolis+IN)** — 6349 Guilford Ave, Indianapolis, IN 46220
   Right on the Broad Ripple canal towpath with a beautiful outdoor patio. Lebanese/Egyptian-owned with shareable mezze platters, shawarma, gyros, and hummus. 4.6 stars on OpenTable. 
 
-- [ ] **[317 BBQ](https://www.google.com/maps/search/317+BBQ+6320+Guilford+Ave+Indianapolis+IN)** — 6320 Guilford Ave, Indianapolis, IN 46220
+- [x] **[317 BBQ](https://www.google.com/maps/search/317+BBQ+6320+Guilford+Ave+Indianapolis+IN)** — 6320 Guilford Ave, Indianapolis, IN 46220
   BBQ spot on the to-try list!
 
 ---
 
 ## Irvington
 
-- [x] **[Strange Bird](https://www.google.com/maps/search/Strange+Bird+128+S+Audubon+Rd+Indianapolis+IN)** — 128 S Audubon Rd, Indianapolis, IN 46219
+- [] **[Strange Bird](https://www.google.com/maps/search/Strange+Bird+128+S+Audubon+Rd+Indianapolis+IN)** — 128 S Audubon Rd, Indianapolis, IN 46219
   Japanese ramen — loved the ramen with stir-fry vegetables.
 
 ---
