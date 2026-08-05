@@ -9,6 +9,7 @@
 - [Broad Ripple](#broad-ripple)
 - [Irvington](#irvington)
 - [Fountain Square / Near Southside](#fountain-square--near-southside)
+- [South Side](#south-side)
 - [Downtown / Mass Ave](#downtown--mass-ave)
 - [Castleton](#castleton)
 - [Fishers](#fishers)
@@ -55,6 +56,13 @@
 
 ---
 
+## South Side
+
+- [ ] **[Hyderabad House](https://www.google.com/maps/search/Hyderabad+House+5145+Noggle+Way+Indianapolis+IN)** — 5145 Noggle Way #102, Indianapolis, IN 46237
+  Authentic Hyderabadi Indian cuisine — biryani, curries, and more on the south side.
+
+---
+
 ## Downtown / Mass Ave
 
 - [x] **[Axum Ethiopian Restaurant](https://www.google.com/maps/search/Axum+Ethiopian+Restaurant+825+N+Pennsylvania+St+Indianapolis+IN)** — 825 N Pennsylvania St, Indianapolis, IN 46204
@@ -66,6 +74,9 @@
 
 - [ ] **[Tinker Street](https://www.google.com/maps/search/Tinker+Street+402+E+16th+St+Indianapolis+IN)** — 402 E 16th St, Indianapolis, IN 46202
   Frequently changing seasonal menu sourced from local farms and artisan producers. Intimate and upscale — a favorite for special occasions. Note: 21+ establishment.
+
+- [ ] **[The Eagle](https://www.google.com/maps/search/The+Eagle+310+Massachusetts+Ave+Indianapolis+IN)** — 310 Massachusetts Ave, Indianapolis, IN 46204
+  Antibiotic-free, all-natural fried chicken brined and dredged in house — a Mass Ave favorite for Southern comfort food.
 
 ---
 
