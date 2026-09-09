@@ -93,7 +93,7 @@
   Top-rated Ethiopian in Indy (4.5+ stars, 200+ reviews). Shared mesob platters with injera bread make it perfect for groups — great vegan options too.
 
 
-- [ ] **[Mesh](https://www.google.com/maps/search/Mesh+725+Massachusetts+Ave+Indianapolis+IN)** — 725 Massachusetts Ave, Indianapolis, IN 46202
+- [closed] **[Mesh](https://www.google.com/maps/search/Mesh+725+Massachusetts+Ave+Indianapolis+IN)** — 725 Massachusetts Ave, Indianapolis, IN 46202
   Upscale Mass Ave restaurant with cheese & charcuterie boards, creative small plates, and land & sea entrees. Great lunch, brunch, and dinner option right on Mass Ave.
 
 - [ ] **[Tinker Street](https://www.google.com/maps/search/Tinker+Street+402+E+16th+St+Indianapolis+IN)** — 402 E 16th St, Indianapolis, IN 46202
