@@ -70,6 +70,21 @@
 - [ ] **[Mo's A Place for Steaks](https://www.google.com/maps/search/Mo%27s+A+Place+for+Steaks+780+US+Hwy+31+N+Greenwood+IN)** — 780 US Hwy 31 N, Greenwood, IN 46142
   New Greenwood steakhouse with Chicago-sourced steaks and craft cocktails — a fun, upscale option for a special team dinner.
 
+- [ ] **[Ten Cuts Brazilian Steakhouse](https://www.google.com/maps/search/Ten+Cuts+Brazilian+Steakhouse+1001+N+SR+135+Greenwood+IN)** — 1001 N SR 135 Suite A, Greenwood, IN 46142
+  Brazilian churrasco-style steakhouse — tableside carved meats, great for a bigger group dinner.
+
+- [ ] **[Red Tacos Taqueria & Birrieria](https://www.google.com/maps/search/Red+Tacos+7482+Madison+Ave+Indianapolis+IN)** — 7482 Madison Ave, Indianapolis, IN 46227
+  Tijuana-style birria specialist — birria tacos, ramen, and even birria pizza. Casual, easy team lunch spot.
+
+- [ ] **[Shallo's Antique Restaurant & Brewhouse](https://www.google.com/maps/search/Shallos+Antique+Restaurant+Brewhouse+8811+Hardegan+St+Indianapolis+IN)** — 8811 Hardegan St, Indianapolis, IN 46227
+  Long-running south side favorite — American pub fare and house-brewed beer in a cozy, antique-filled setting.
+
+- [ ] **[Antilogy](https://www.google.com/maps/search/Antilogy+5867+N+State+Rd+135+Greenwood+IN)** — 5867 N State Rd 135, Greenwood, IN 46143
+  New American spot in Center Grove — refined brunch and coffee by day, shareable plates, bourbon, and a full bar in the evening.
+
+- [ ] **[Thai Bliss](https://www.google.com/maps/search/Thai+Bliss+5335+E+Southport+Rd+Indianapolis+IN)** — 5335 E Southport Rd Suite 600, Indianapolis, IN 46237
+  Locally owned Thai spot on the south side — curries, fried rice, and spring rolls in a casual setting.
+
 ---
 
 ## Downtown / Mass Ave
