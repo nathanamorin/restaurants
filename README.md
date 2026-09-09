@@ -64,6 +64,12 @@
 - [ ] **[Hyderabad House](https://www.google.com/maps/search/Hyderabad+House+5145+Noggle+Way+Indianapolis+IN)** — 5145 Noggle Way #102, Indianapolis, IN 46237
   Authentic Hyderabadi Indian cuisine — biryani, curries, and more on the south side.
 
+- [ ] **[The Besties' Table](https://www.google.com/maps/search/The+Besties%27+Table+4022+Shelby+St+Indianapolis+IN)** — 4022 Shelby St, Indianapolis, IN 46227
+  New Black-owned breakfast & brunch spot across from UIndy. Hot honey chicken wings, deviled eggs, French toast, and chicken and waffles.
+
+- [ ] **[Mo's A Place for Steaks](https://www.google.com/maps/search/Mo%27s+A+Place+for+Steaks+780+US+Hwy+31+N+Greenwood+IN)** — 780 US Hwy 31 N, Greenwood, IN 46142
+  New Greenwood steakhouse with Chicago-sourced steaks and craft cocktails — a fun, upscale option for a special team dinner.
+
 ---
 
 ## Downtown / Mass Ave
@@ -87,6 +93,15 @@
 
 - [ ] **[Aroma Indian Cuisine & Bar](https://www.google.com/maps/place/Aroma+Indian+Cuisine+%26+Bar+-+Gainbridge/data=!4m2!3m1!1s0x0:0xfef7dd907c861eae?sa=X&ved=1t:2428&ictx=111)** — 110 S Pennsylvania St, Indianapolis, IN 46204
   Recently relocated downtown near Gainbridge Fieldhouse. Modern take on authentic Indian flavors, seats up to 90.
+
+- [ ] **[The Knotted Spoon](https://www.google.com/maps/search/The+Knotted+Spoon+575+Massachusetts+Ave+Indianapolis+IN)** — 575 Massachusetts Ave, Indianapolis, IN 46204
+  New in 2026 on Mass Ave — chef-curated comfort food and a strong cocktail list, from the team behind Cobb's Corner.
+
+- [ ] **[Pillar & Salt](https://www.google.com/maps/search/Pillar+%26+Salt+850+Massachusetts+Ave+Indianapolis+IN)** — 850 Massachusetts Ave, Indianapolis, IN 46202 *(Bottleworks)*
+  Opened Feb 2026. Handmade pasta, wood-roasted proteins, and a cocktail program from a former Beholder bartender — great for a nicer team dinner.
+
+- [ ] **[Koyo Ramen](https://www.google.com/maps/search/Koyo+Ramen+850+Massachusetts+Ave+Indianapolis+IN)** — 850 Massachusetts Ave, Indianapolis, IN 46202 *(Bottleworks)*
+  Opened March 2026. Japanese ramen from owners who immigrated from Fukuoka — easy, casual team lunch option.
 
 ---
 
@@ -117,6 +132,8 @@
 - [ ] **[Kura Revolving Sushi Bar](https://www.google.com/maps/search/Kura+Revolving+Sushi+Bar+11594+Whistle+Dr+Fishers+IN)** — 11594 Whistle Dr Suite 120, Fishers, IN 46037
   Indiana's first conveyor belt sushi spot (opened late 2024). Every plate is $3.75 — easy for groups to order freely. Sushi, ramen, noodles, and desserts on the belt. Fun and social for team outings. 
 
+- [ ] **[Vicious Biscuit](https://www.google.com/maps/search/Vicious+Biscuit+8711+E+106th+St+Fishers+IN)** — 8711 E 106th St Suite 110, Fishers, IN 46038
+  Indiana debut (opened Jan 2026) of the Southern biscuit-centric breakfast/brunch chain — good for a team breakfast outing.
 
 ---
 
@@ -142,6 +159,12 @@
 - [ ] **[Terra Gaucha Brazilian Steakhouse](https://www.google.com/maps/search/Terra+Gaucha+Brazilian+Steakhouse+8487+Union+Chapel+Rd+Indianapolis+IN)** — 8487 Union Chapel Rd, Indianapolis, IN
   Upscale Brazilian steakhouse with churrasco service — excellent for special team dinners. 
 
+- [ ] **[Kizuki Ramen & Izakaya](https://www.google.com/maps/search/Kizuki+Ramen+%26+Izakaya+2450+E+146th+St+Carmel+IN)** — 2450 E 146th St, Carmel, IN 46033
+  Tokyo-style ramen and izakaya small plates in a casual, lively setting.
+
+- [ ] **[Slapfish](https://www.google.com/maps/search/Slapfish+11505+Illinois+St+Carmel+IN)** — 11505 Illinois St Suite 110, Carmel, IN 46032
+  Fast-casual seafood concept (4th Indiana location) at Carmel's Market District — easy, casual team lunch spot.
+
 ---
 
 
@@ -164,6 +187,9 @@
 
 - [ ] **[Back 9 Golf & Entertainment](https://www.back9golf.com/)** *(Golf Entertainment)* — 1415 Drover St, Indianapolis, IN 46221
   Social golf entertainment venue with simulator bays, food, and drinks that works well for group outings.
+
+- [ ] **[Westfield Collective](https://www.google.com/maps/search/Westfield+Collective+750+E+181st+St+Westfield+IN)** *(Food Hall / Bars / Sand Volleyball)* — 750 E 181st St, Westfield, IN 46074
+  New in March 2026 next to Grand Park. Indoor/outdoor food hall with six restaurant concepts, three bars, sand volleyball courts, and self-pour beer/wine walls — great for a bigger group outing.
 
 ---
 
