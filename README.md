@@ -156,7 +156,7 @@
 
 ## Carmel
 
-- [ ] **[Terra Gaucha Brazilian Steakhouse](https://www.google.com/maps/search/Terra+Gaucha+Brazilian+Steakhouse+8487+Union+Chapel+Rd+Indianapolis+IN)** — 8487 Union Chapel Rd, Indianapolis, IN
+- [x] **[Terra Gaucha Brazilian Steakhouse](https://www.google.com/maps/search/Terra+Gaucha+Brazilian+Steakhouse+8487+Union+Chapel+Rd+Indianapolis+IN)** — 8487 Union Chapel Rd, Indianapolis, IN
   Upscale Brazilian steakhouse with churrasco service — excellent for special team dinners. 
 
 - [ ] **[Kizuki Ramen & Izakaya](https://www.google.com/maps/search/Kizuki+Ramen+%26+Izakaya+2450+E+146th+St+Carmel+IN)** — 2450 E 146th St, Carmel, IN 46033
